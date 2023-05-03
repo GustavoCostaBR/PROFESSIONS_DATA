@@ -1,0 +1,1 @@
+Run ROTINA and it should do the work of calling the other scripts.
